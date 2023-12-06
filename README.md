@@ -1,1 +1,1 @@
-# Leonardo.AI-imgGeneration
+# Leonardo.AI image Generation API
